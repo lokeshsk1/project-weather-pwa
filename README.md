@@ -5,7 +5,7 @@
 
 Screenshots:
 <img src="https://i.imgur.com/wZZFpN9.png?1">
-<img src="https://i.imgur.com/AucSaqW.png">
+<img src="https://i.imgur.com/AucSaqW.png" width="80%">
 <img src="https://i.imgur.com/XNtj1Z8.jpg" width="250px" height="500px">
 
 Setup:
