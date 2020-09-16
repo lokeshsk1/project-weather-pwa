@@ -6,7 +6,7 @@
 Screenshots:
 <img src="https://i.imgur.com/wZZFpN9.png?1">
 <img src="https://i.imgur.com/AucSaqW.png" width="70%">
-<img src="https://i.imgur.com/XNtj1Z8.jpg" width="15%%" height="15%">
+<img src="https://i.imgur.com/XNtj1Z8.jpg" width="20%" height="20%">
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
