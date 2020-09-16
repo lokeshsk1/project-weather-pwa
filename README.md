@@ -3,10 +3,12 @@
 
 ### [Live Site](https://sad-minsky-8cf12a.netlify.app/)
 
-Setup:
+## Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
+## Screenshots
+
 <img src="https://i.imgur.com/wZZFpN9.png?1">
-<img src="https://i.imgur.com/AucSaqW.png" width="79.4%" height="439px">
-<img src="https://i.imgur.com/XNtj1Z8.jpg" width="20%" height="20%">
+<img src="https://i.imgur.com/AucSaqW.png">
+<img src="https://i.imgur.com/XNtj1Z8.jpg" width="30%" height="30%">
 
