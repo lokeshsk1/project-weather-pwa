@@ -3,7 +3,7 @@
 
 ### [Live Site](https://sad-minsky-8cf12a.netlify.app/)
 
-## Screenshots
+# Screenshots
 
 <img src="https://i.imgur.com/wZZFpN9.png?1">
 <img src="https://i.imgur.com/AucSaqW.png" width="79.4%" height="439px">
